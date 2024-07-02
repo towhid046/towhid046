@@ -25,9 +25,8 @@
     <img src="./images/skill-images/mongodb.png" alt="MongoDB" style="width: 50px; height: 50px; margin: 10px;">
 </p>
 
-- 🔭 I’m currently working on Frontend Development
+
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Email: towhidmorol46@gmail.com
