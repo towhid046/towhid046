@@ -6,7 +6,7 @@
 <!-- <p style="text-align: center;">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=towhid046&theme=transparent" alt="towhid046" />
 </p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towhid046&&theme=dark" alt="rishavchanda" /></p>
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Next JS
