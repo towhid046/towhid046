@@ -15,8 +15,8 @@
 <h1>Skills</h1>
 <p>Here are some of the technologies and tools I am familiar with:</p>
 <p style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="path/to/html_logo.png" alt="HTML" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/css_logo.png" alt="CSS" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="HTML" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" style="width: 50px; height: 50px; margin: 10px;">
     <img src="path/to/tailwind_logo.png" alt="Tailwind CSS" style="width: 50px; height: 50px; margin: 10px;">
     <img src="path/to/js_logo.png" alt="JavaScript" style="width: 50px; height: 50px; margin: 10px;">
     <img src="path/to/react_logo.png" alt="React" style="width: 50px; height: 50px; margin: 10px;">
