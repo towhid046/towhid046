@@ -15,15 +15,14 @@
 <h1>Skills</h1>
 <p>Here are some of the technologies and tools I am familiar with:</p>
 <p style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="HTML" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/tailwind_logo.png" alt="Tailwind CSS" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/js_logo.png" alt="JavaScript" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/react_logo.png" alt="React" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/firebase_logo.png" alt="Firebase" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/nodejs_logo.png" alt="Node.js" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/express_logo.png" alt="Express.js" style="width: 50px; height: 50px; margin: 10px;">
-    <img src="path/to/mongodb_logo.png" alt="MongoDB" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images//skill-images/html.png" alt="HTML" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images//skill-images/css.png" alt="CSS" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images//skill-images/tailwind.png" alt="Tailwind CSS" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images/skill-images/js.png" alt="JavaScript" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images/skill-images/react.png" alt="React" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images/skill-images/firebase.png" alt="Firebase" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images/skill-images/express.png" alt="Express.js" style="width: 50px; height: 50px; margin: 10px;">
+    <img src="./images/skill-images/mongodb.png" alt="MongoDB" style="width: 50px; height: 50px; margin: 10px;">
 </p>
 
 - 🔭 I’m currently working on Frontend Development
