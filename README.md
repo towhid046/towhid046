@@ -3,8 +3,10 @@
 <p> Hi there, My name is <em>Towhid Morol</em>, I am a Front-end web developer. I feel confident to building front-end web application by using  HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase Authentication. I also have a familiarity with some backend technologies such as NodeJs, Express.js, and MongoDB. My goal is to become a full stack web developer who make eye catch front end with cool running backend. Beside my web development I am engage in cycling, reading, praying and etc.</p>
 
 <h1>Streaks</h1>
-<p style="text-align: center;"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=towhid046&theme=transparent" alt="GitHub Streak" /></a>
-</p>
+<!-- <p style="text-align: center;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=towhid046&theme=transparent" alt="towhid046" />
+</p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Next JS
