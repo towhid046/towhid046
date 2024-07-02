@@ -32,7 +32,7 @@
 - ⚡ Fun fact: #coding
 
 <h1>Get me touch</h1>
-    - 🌐 Portfolio: https://towhidmorol.vercel.app
-    - 📧 Email: towhidmorol46@gmail.com
-    - 🔗 Linkedin : https://www.linkedin.com/in/towhid-morol
-    - 📘 Facebook : https://www.facebook.com/tawhid.05
+- 🌐 Portfolio: https://towhidmorol.vercel.app
+- 📧 Email: towhidmorol46@gmail.com
+- 🔗 Linkedin : https://www.linkedin.com/in/towhid-morol
+- 📘 Facebook : https://www.facebook.com/tawhid.05
