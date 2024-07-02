@@ -7,7 +7,7 @@
 
 <h1>Streaks</h1>
 <p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=towhid046&theme=transparent" alt="towhid046" style="display: block; margin: 0 auto;" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=towhid046&theme=dark&type=png" alt="towhid046" />
 </p>
 
 <h1>Skills</h1>
