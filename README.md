@@ -29,5 +29,10 @@
 - 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about Web Development
-- 📫 How to reach me: Email: towhidmorol46@gmail.com
 - ⚡ Fun fact: #coding
+
+<h1>Get me touch</h1>
+    - 🌐 Portfolio: https://towhidmorol.vercel.app
+    - 📧 Email: towhidmorol46@gmail.com
+    - 🔗 Linkedin : https://www.linkedin.com/in/towhid-morol
+    - 📘 Facebook : https://www.facebook.com/tawhid.05
