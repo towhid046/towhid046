@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <p> 
-    Hi there, my name is <em>Towhid Morol</em>. I am a Front-end web developer, confident in building front-end web applications using HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase Authentication. I also have familiarity with some backend technologies such as Node.js, Express.js, and MongoDB. My goal is to become a full stack web developer who can create eye-catching front ends with well-running backends. Besides web development, I am engaged in cycling, reading, praying, and more.
+    Hi there, my name is <em>Towhid Morol</em>. I am a Front-end web developer, confident in building front-end web applications using HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase Authentication. I also have familiarity with some backend technologies such as Node.js, Express.js, and MongoDB. My main goal is to become a full-stack web developer who can create eye-catching front ends with well-running backends. Besides web development, I am engaged in cycling, reading, praying, and more.
 </p>
 
 <h1>Streaks</h1>
@@ -33,10 +33,22 @@
 
 <h1>Get me touch</h1>
 <ul>
-    <li>🌐 Portfolio: <a target='_blank' href="https://towhidmorol.vercel.app">https://towhidmorol.vercel.app</a></li>
-    <li>📧 Email: <a href="mailto:towhidmorol46@gmail.com">towhidmorol46@gmail.com</a></li>
-    <li>🔗 LinkedIn: <a target='_blank' href="https://www.linkedin.com/in/towhid-morol">https://www.linkedin.com/in/towhid-morol</a></li>
-    <li>📘 Facebook: <a target='_blank' href="https://www.facebook.com/tawhid.05">https://www.facebook.com/tawhid.05</a></li>
+    <li>
+        🌐 Portfolio: 
+        <a target='_blank' href="https://towhidmorol.vercel.app">https://towhidmorol.vercel.app</a>
+    </li>
+    <li>
+        📧 Email: 
+        <a href="mailto:towhidmorol46@gmail.com">towhidmorol46@gmail.com</a>
+    </li>
+    <li>
+        🔗 LinkedIn: 
+        <a target='_blank' href="https://www.linkedin.com/in/towhid-morol">https://www.linkedin.com/in/towhid-morol</a>
+    </li>
+    <li>
+        📘 Facebook: 
+        <a target='_blank' href="https://www.facebook.com/tawhid.05">https://www.facebook.com/tawhid.05</a>
+    </li>
 </ul>
 
 
