@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <p> 
-    Hi there, my name is <em>Towhid Morol</em>. I am a Front-end web developer, confident in building front-end web applications using HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase Authentication. I also have familiarity with some backend technologies such as Node.js, Express.js, and MongoDB. My main goal is to become a full-stack web developer who can create eye-catching front ends with well-running backends. Besides web development, I am engaged in cycling, reading, praying, and more.
+    Hi there, my name is <em>Towhid Morol</em>. I am a full stack web developer, my core based on JavaScript Programming language, confident in building front-end and backend web applications using HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase Authentication. I also have familiarity with some backend technologies such as Node.js, Express.js, and MongoDB. My main goal is to become a full-stack web developer who can create eye-catching front ends with well-running backends. Besides web development, I am engaged in cycling, reading, praying, and more.
 </p>
 
 <h1>Streaks</h1>
